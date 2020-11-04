@@ -6,6 +6,7 @@ public class BasicStringUtils {
      * @return string with identical content, and the first character capitalized
      */
     public static String camelCase(String str) {
+
         return null;
     }
 
@@ -14,6 +15,7 @@ public class BasicStringUtils {
      * @return string with identical contents, in the reverse order
      */
     public static String reverse(String str) {
+
         return null;
     }
 
